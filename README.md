@@ -1,2 +1,4 @@
-# omikuzi
-コンソールで作ったはいいものの俺に出来るのはこれくらいだよ
+# omikuzi -　おみくじとジャンケン
+You can start with exe in BUILD folder.
+BUILDフォルダの中のexeファイルを使ってね！cmdが起動するけど仕様だよ！
+あとrate.txtは絶対にいじるんじゃねえぞ
